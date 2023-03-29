@@ -1,0 +1,15 @@
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\bin\Debug\net6.0\Library.BusinessLayer.deps.json
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\bin\Debug\net6.0\Library.BusinessLayer.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\bin\Debug\net6.0\Library.BusinessLayer.pdb
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.AssemblyInfo.cs
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\refint\Library.BusinessLayer.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.pdb
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\ref\Library.BusinessLayer.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\bin\Debug\net6.0\Library.DataAccess.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\bin\Debug\net6.0\Library.DataAccess.pdb
+C:\Users\Amadou Oury\source\repos\Library\src\Library.BusinessLayer\obj\Debug\net6.0\Library.BusinessLayer.csproj.CopyComplete

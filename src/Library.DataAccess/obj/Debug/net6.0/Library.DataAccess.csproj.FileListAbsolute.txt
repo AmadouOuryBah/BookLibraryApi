@@ -1,0 +1,14 @@
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\bin\Debug\net6.0\Library.DataAccess.deps.json
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\bin\Debug\net6.0\Library.DataAccess.runtimeconfig.json
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\bin\Debug\net6.0\Library.DataAccess.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\bin\Debug\net6.0\Library.DataAccess.pdb
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.AssemblyInfo.cs
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\refint\Library.DataAccess.dll
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.pdb
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\Library.DataAccess.genruntimeconfig.cache
+C:\Users\Amadou Oury\source\repos\Library\src\Library.DataAccess\obj\Debug\net6.0\ref\Library.DataAccess.dll
